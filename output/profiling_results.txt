@@ -1,0 +1,10 @@
+
+
+numpy:      0.00414 seconds, 8448696 bytes
+numba:      1.79587 seconds, 24127322 bytes
+numba_loop: 0.31963 seconds, 2747698 bytes
+
+
+numpy:      0.01326 seconds, 11520408 bytes
+numba:      0.00351 seconds, 7680272 bytes
+numba_loop: 0.00086 seconds, 960272 bytes

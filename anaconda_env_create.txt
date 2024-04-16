@@ -1,0 +1,5 @@
+mamba create --name numba01 numpy numba scikit-image
+
+conda activate numba01
+
+mamba env export > environment.yml
