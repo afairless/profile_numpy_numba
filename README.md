@@ -37,3 +37,15 @@ Then you can run the code and save the results with this command:
 ```code
 python src/convert_bw.py > output/profiling_results.txt
 ```
+
+
+## Run with Poetry
+
+The [commands](https://python-poetry.org/docs/basic-usage/) to run with Poetry in the top-level directory are:
+
+```code
+poetry install
+
+poetry run python src/convert_bw.py
+```
+
